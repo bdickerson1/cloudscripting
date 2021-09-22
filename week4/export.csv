@@ -1,0 +1,4 @@
+InstanceId,InstanceType,State,PublicIpAddress,Monitoring
+i-061aa97946e725eaf,t2.micro,stopped,N/A,disabled
+i-0f6176167addddce9,t2.micro,running,54.144.114.92,disabled
+i-0c9574f73a5aeb0a7,t2.micro,running,3.92.133.115,disabled
