@@ -1,0 +1,5 @@
+Other things to monitor in S3
+
+1. who accessed the S3 bucket
+2. what is done to the files in the bucket (copied, deleted)
+3. how old is it/when last modified 
