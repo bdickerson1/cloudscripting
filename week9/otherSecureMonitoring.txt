@@ -1,0 +1,10 @@
+other things to monitor
+1. password policy is strong
+2. when access key was last used
+3. delete public SSH key
+
+
+MFA stuff
+i would use IAM.client
+there are two functions:   list_mfa_devices() and list_virtual_mfa_devices()
+Lambda and SNS could check and then notify if MFA isn't in use
